@@ -1,0 +1,52 @@
+,country,alpha2,alpha3,region,subregion
+0,Afghanistan,AF,AFG,Asia,Southern Asia
+11,Armenia,AM,ARM,Asia,Western Asia
+15,Azerbaijan,AZ,AZE,Asia,Western Asia
+17,Bahrain,BH,BHR,Asia,Western Asia
+18,Bangladesh,BD,BGD,Asia,Southern Asia
+25,Bhutan,BT,BTN,Asia,Southern Asia
+33,Brunei Darussalam,BN,BRN,Asia,South-eastern Asia
+38,Cambodia,KH,KHM,Asia,South-eastern Asia
+45,China,CN,CHN,Asia,Eastern Asia
+58,Cyprus,CY,CYP,Asia,Western Asia
+81,Georgia,GE,GEO,Asia,Western Asia
+99,Hong Kong,HK,HKG,Asia,Eastern Asia
+102,India,IN,IND,Asia,Southern Asia
+103,Indonesia,ID,IDN,Asia,South-eastern Asia
+104,Iran (Islamic Republic of),IR,IRN,Asia,Southern Asia
+105,Iraq,IQ,IRQ,Asia,Western Asia
+108,Israel,IL,ISR,Asia,Western Asia
+111,Japan,JP,JPN,Asia,Eastern Asia
+113,Jordan,JO,JOR,Asia,Western Asia
+114,Kazakhstan,KZ,KAZ,Asia,Central Asia
+117,Korea (Democratic People's Republic of),KP,PRK,Asia,Eastern Asia
+118,Korea (Republic of),KR,KOR,Asia,Eastern Asia
+119,Kuwait,KW,KWT,Asia,Western Asia
+120,Kyrgyzstan,KG,KGZ,Asia,Central Asia
+121,Lao People's Democratic Republic,LA,LAO,Asia,South-eastern Asia
+123,Lebanon,LB,LBN,Asia,Western Asia
+130,Macao,MO,MAC,Asia,Eastern Asia
+134,Malaysia,MY,MYS,Asia,South-eastern Asia
+135,Maldives,MV,MDV,Asia,Southern Asia
+147,Mongolia,MN,MNG,Asia,Eastern Asia
+152,Myanmar,MM,MMR,Asia,South-eastern Asia
+155,Nepal,NP,NPL,Asia,Southern Asia
+166,Oman,OM,OMN,Asia,Western Asia
+167,Pakistan,PK,PAK,Asia,Southern Asia
+169,"Palestine, State of",PS,PSE,Asia,Western Asia
+174,Philippines,PH,PHL,Asia,South-eastern Asia
+179,Qatar,QA,QAT,Asia,Western Asia
+194,Saudi Arabia,SA,SAU,Asia,Western Asia
+199,Singapore,SG,SGP,Asia,South-eastern Asia
+209,Sri Lanka,LK,LKA,Asia,Southern Asia
+216,Syrian Arab Republic,SY,SYR,Asia,Western Asia
+217,"Taiwan, Province of China",TW,TWN,Asia,Eastern Asia
+218,Tajikistan,TJ,TJK,Asia,Central Asia
+220,Thailand,TH,THA,Asia,South-eastern Asia
+221,Timor-Leste,TL,TLS,Asia,South-eastern Asia
+227,Turkey,TR,TUR,Asia,Western Asia
+228,Turkmenistan,TM,TKM,Asia,Central Asia
+233,United Arab Emirates,AE,ARE,Asia,Western Asia
+238,Uzbekistan,UZ,UZB,Asia,Central Asia
+241,Viet Nam,VN,VNM,Asia,South-eastern Asia
+246,Yemen,YE,YEM,Asia,Western Asia
